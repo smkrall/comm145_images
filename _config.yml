@@ -31,7 +31,7 @@ author: smkrall
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata 
+metadata: collection_metadata
 
 ##########
 # GOOGLE SERVICES [optional!]
@@ -47,7 +47,7 @@ metadata: demo-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
